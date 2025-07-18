@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\disco\source\repos\EchoSploit\x64\Release\EchoSploit.lib and object C:\Users\disco\source\repos\EchoSploit\x64\Release\EchoSploit.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EchoSploit.vcxproj -> C:\Users\disco\source\repos\EchoSploit\x64\Release\EchoSploit.dll
